@@ -15,9 +15,9 @@ BreadTime is a website I designed from scratch using Figma, turning my ideas int
 <img src="https://github.com/user-attachments/assets/cf3b2725-79ed-441a-be8d-200fd520c5ba" width="350" height="200">
 <img src="https://github.com/user-attachments/assets/a2be0b08-7c84-4fdc-9275-0933bb99621d" width="350" height="200">
 
-
 ### Mobile
-<img src="https://github.com/user-attachments/assets/622a3df6-e3b5-4d2b-8602-d0a38712fe4a" width="350" height="600">
+
+<img src="https://github.com/user-attachments/assets/bc1c3583-362b-467b-8ef8-b3f2b5558423" width="350" height="600">
 <img src="https://github.com/user-attachments/assets/a5eaf137-984e-4487-91d3-57b3716a5ccd" width="350" height="600">
 <img src="https://github.com/user-attachments/assets/a3b7bc8b-6fd2-4f3f-a041-eaf661c2475f" width="350" height="600">
 
